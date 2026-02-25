@@ -44,14 +44,6 @@ export default hopeTheme({
   },
 
   // 加密配置
-  encrypt: {
-    config: {
-      "": {
-        hint: "",
-        password: "",
-      },
-    },
-  },
 
   // 多语言配置
   metaLocales: {
