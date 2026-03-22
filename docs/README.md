@@ -6,11 +6,11 @@ config:
     type: hero
     full: true
     forceDark: true
-    effect: tint-plate
+    effect: dark-veil
     hero:
-      name: Theme Plume
-      tagline: VuePress Next Theme
-      text: 一个简约的，功能丰富的 vuepress 文档&博客 主题
+      name: 某地市民姚先生
+      tagline: MDSMYXS'S BLOG
+      text: 博客站 ＆ 文档站 ＆ 资源站|
       actions:
         -
           theme: brand
