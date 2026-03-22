@@ -6,7 +6,7 @@ config:
     type: hero
     full: true
     forceDark: true
-    effect: hyper-speed
+    effect: tint-plate
     hero:
       name: Theme Plume
       tagline: VuePress Next Theme
