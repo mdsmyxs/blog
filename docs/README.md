@@ -10,7 +10,7 @@ config:
     hero:
       name: 某地市民姚先生
       tagline: MDSMYXS'S BLOG
-      text: 博客站 ＆ 文档站 ＆ 资源站|
+      text: 博客站 ＆ 文档站 ＆ 资源站
       actions:
         -
           theme: brand
