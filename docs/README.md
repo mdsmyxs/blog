@@ -6,7 +6,7 @@ config:
     type: hero
     full: true
     forceDark: true
-    effect: dark-veil
+    effect: tint-plate
     hero:
       name: 某地市民姚先生
       tagline: MDSMYXS'S BLOG
